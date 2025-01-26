@@ -5,5 +5,5 @@
 Normal text <br/>
 ##### Header 5 (H5) <br/>
 ###### Header 6 (H6) <br/> <br/> <br/>
-### Changes <br/>
-Added a table of headers compared to normal text. Notice that Headers 1-4 are larger than normal text while Headers 5-6 are smaller. Additionally, Headers 1 & 2 come with separation lines beneath them.
+
+![Image of a curcular inclusive LGBTQIA flag](https://github.com/user-attachments/assets/b61cd97e-5b23-4838-a4e7-e67f6c97b711)
